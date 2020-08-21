@@ -30,9 +30,9 @@ To connect with me,
     <img src="https://img.shields.io/badge/-Terraform-4B32C3?style=flat-square&logo=Terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=Docker&logoColor=white"/><br />
     <img src="https://img.shields.io/badge/-Consul-b91d66?style=flat-square&logo=Consul&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AWS-eb670c?style=flat-square&logo=AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Linux-A80030?style=flat-square&logo=Linux&logoColor=white"/><br />
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-AWS-eb670c?style=flat-square&logo=AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=FlaskAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Django-eb670c?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Nomad-00bc7f?style=flat-square&logo=Nomad&logoColor=white"/>
