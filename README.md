@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **Site Reliability Engineer @ One2n Consulting**
 - 💬 Ask me about **Investing & Personal Finance**
-- 🌱 I’m currently learning **aws cloud, site reliability engineering knowhows**.
+- 🌱 I’m currently learning **cloud infrastructure, site reliability engineering knowhows**.
 
 To connect with me,
 
