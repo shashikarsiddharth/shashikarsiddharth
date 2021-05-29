@@ -13,35 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+DevOps/ SRE Consultant @ [One2n Consulting](https://one2n.in/)
 
-### Hi there, I'm Siddharth 👋
+<!-- <p>
+<a href="https://twitter.com/speaking_SS">
+   <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working as **Site Reliability Engineer @ One2n Consulting**
-- 💬 Ask me about **Investing & Personal Finance**
-- 🌱 I’m currently learning **Cloud Infrastructure, SRE Knowhows**.
+<a href="https://medium.com/@shashikarsiddharth">
+   <img align="center" alt="medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-To connect with me,
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/speaking_SS) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@shashikarsiddharth)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-shashikar/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/siddharthshashikar/)
-
-**Tools/ Frameworks**
-<p>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Terraform-4B32C3?style=flat-square&logo=Terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=Docker&logoColor=white"/><br />
-    <img src="https://img.shields.io/badge/-Consul-b91d66?style=flat-square&logo=Consul&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-AWS-eb670c?style=flat-square&logo=AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Linux-A80030?style=flat-square&logo=Linux&logoColor=white"/><br />
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=FlaskAWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Django-eb670c?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Nomad-00bc7f?style=flat-square&logo=Nomad&logoColor=white"/>
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashikarsiddharth&hide=stars&include_all_commits=true&count_private=true&theme=vue&show_icons=true&hide_border=true" alt="Github stats" />
+<a href="https://www.linkedin.com/in/siddharth-shashikar/">
+   <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<p/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikarsiddharth&hide=stars&layout=compact&theme=vue&show_icons=true&hide_border=true" alt="Language usage stats" />
-</a>
+[![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=shashikarsiddharth&theme=nord&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
