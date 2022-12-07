@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-DevOps Practitioner, SRE Consultant & Plaftorm Engg @ [One2n Consulting](https://one2n.in/)
+DevOps Practitioner, SRE Consultant & Plaftorm Engg @ [One2n](https://one2n.in/)
 
 <!-- <p>
 <a href="https://twitter.com/speaking_SS">
