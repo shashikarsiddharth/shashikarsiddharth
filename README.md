@@ -3,7 +3,7 @@ DevOps Practitioner and SRE Consultant @ [One2n](https://one2n.in/). In my free 
 - I manage the [DevOps Noida Meetup group](https://www.meetup.com/devops-noida/)
 - Provide mentorship at [Scaler](https://www.scaler.com/academy/mentor-dashboard/profile)
 - Drive [SRE DevOps Cohort](https://shashikarsiddharth.notion.site/SRE-DevOps-Cohort-a3f2a35b10614e73b260dcf30dcaf3bc)
-- Improve my culinary skills.
+- Improve my culinary skills, checkout my insta profile, link in Socials section.
 
 
 ## 🌐 Socials:
